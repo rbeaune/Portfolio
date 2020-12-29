@@ -1,10 +1,19 @@
 /**
 * NumerologyCalculator: Calculates the "name number" for a given name using the "Pythagorean System"
 * For more information: https://en.wikipedia.org/wiki/Numerology
-* 
+*
 * @file main.cpp
 * @author Raymond Beaune
 * @version 1.0.0
+*
+* Compile with GCC:
+*     g++ -std=c++11 -o NumerologyCalculator NumerologyCalculator.cpp
+*
+* Example usage:
+*     $ ./NumerologyCalculator 
+*     What is your full name? (Letters and spaces only)
+*     > Ned Stark
+*     > Ned Stark's NAME NUMBER is ** 2 **
 */
 
 #include <iostream>
