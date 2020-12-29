@@ -7,7 +7,12 @@
 * @version 1.0.0
 */
 
-#include "includes.hpp"
+#include <iostream>
+#include <map>
+#include <string>
+#include <sstream>
+#include <vector>
+#include <algorithm>
 
 /* The unchanging master numerology table */
 static const std::map<char, short> numerologyNumberTable =
