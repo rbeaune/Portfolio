@@ -1,3 +1,9 @@
+// Simulated Server Cluster
+// April 24, 2020
+// Raymond Beaune
+//
+// Request
+
 using System;
 
 namespace Assi3

@@ -1,3 +1,9 @@
+// Simulated Server Cluster
+// April 24, 2020
+// Raymond Beaune
+//
+// AbstractServer
+
 using System;
 
 namespace Assi3

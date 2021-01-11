@@ -1,6 +1,9 @@
-﻿// INFO5125 - Project 3
-// Raymond Beaune 0602362
-// Due: April 24, 2020
+﻿// Simulated Server Cluster
+// April 24, 2020
+// Raymond Beaune
+//
+// Main
+
 using System;
 using System.Collections.Generic;
 
